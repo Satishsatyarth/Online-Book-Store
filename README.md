@@ -77,7 +77,7 @@ Generate inventory and sales reports
 
 **📦 Installation & Setup**
 1. Clone the Repository
-git clone https://github.com/your-username/online-book-store.git
+git clone https://github.com/satishsatyarth/online-book-store.git
 cd online-book-store
 
 2. Build the Project
