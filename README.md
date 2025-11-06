@@ -1,4 +1,5 @@
 **📚 Online Book Store – README**
+
 ✅ Overview
 
 The Online Book Store is a responsive, user-friendly web application designed to streamline bookstore operations.
@@ -6,6 +7,7 @@ It allows customers to browse books, manage their shopping cart, and place secur
 This project is built using Spring Boot, Spring MVC, and Spring Data JPA, ensuring high performance, scalability, and maintainability.
 
 **🎯 Objectives**
+
 Develop a responsive and intuitive web application for managing bookstore operations.
 Implement secure authentication and authorization to protect user and admin data.
 Provide a rich catalog of books with advanced search and filtering capabilities.
@@ -14,6 +16,7 @@ Offer administrators tools for managing inventory, orders, and generating report
 Ensure scalability and maintainability for future enhancements and features.
 
 **🛠️ Technologies Used**
+
 Spring Boot
 Spring MVC
 Spring Data JPA
@@ -24,7 +27,8 @@ Git (version control)
 
 **🚀 Features**
 
-***🧑‍💻 User Features*****
+***🧑‍💻 User Features***
+
 User authentication & authorization
 Browse books by:
 Category
@@ -38,6 +42,7 @@ Checkout process
 View order history
 
 ****🔧 Admin Features****
+
 Add new books
 Edit existing books
 Delete books
