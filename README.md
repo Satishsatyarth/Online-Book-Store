@@ -18,11 +18,17 @@ Ensure scalability and maintainability for future enhancements and features.
 **🛠️ Technologies Used**
 
 Spring Boot
+
 Spring MVC
+
 Spring Data JPA
+
 Thymeleaf (for server-side rendering and dynamic UI)
+
 H2 Database (in-memory database for development/testing)
+
 Maven (dependency management)
+
 Git (version control)
 
 **🚀 Features**
